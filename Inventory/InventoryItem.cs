@@ -17,7 +17,7 @@ namespace Inventory
         // Constructor
         public InventoryItem(string itemName, int itemId, double price, int quantityInStock)
         {
-            // Initialize the properties with the values passed to the constructor
+            
             ItemName = itemName;
             ItemId = itemId;
             Price = price;
